@@ -1,0 +1,71 @@
+.dashbord{
+	width:45%;
+	display: inline-block;
+	background-color:#149077;
+	color:#fff;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.icon-section i{
+	font-size: 30px;
+	padding:10px;
+	border:1px solid #fff;
+	border-radius:50%;
+	margin-top:-25px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	background-color:#34495E;
+}
+h1, h2{
+	color:#fff;
+	text-align: center;
+}
+.icon-section p{
+	margin-left: 30px;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.detail-section{
+	background-color: #2F4254;
+	padding: 5px 0px;
+}
+.dashbord .detail-section:hover{
+	background-color: #5a5a5a;
+	cursor: pointer;
+}
+.detail-section a{
+	color:#fff;
+	text-decoration: none;
+}
+.dashbord-green .icon-section,.dashbord-green .icon-section i{
+	background-color: red;
+}
+.dashbord-green .detail-section{
+	background-color: #3aa63a;
+}
+.dashbord-orange .icon-section,.dashbord-orange .icon-section i{
+	background-color: #F39C12;
+}
+.dashbord-orange .detail-section{
+	background-color: #DA8C10;
+}
+.dashbord-blue .icon-section,.dashbord-blue .icon-section i{
+	background-color: #2980B9;
+}
+.dashbord-blue .detail-section{
+	background-color:#2573A6;
+}
+.dashbord-red .icon-section,.dashbord-red .icon-section i{
+	background-color:#E74C3C;
+}
+.dashbord-red .detail-section{
+	background-color:#CF4436;
+}
+.dashbord-skyblue .icon-section,.dashbord-skyblue .icon-section i{
+	background-color:#8E44AD;
+}
+.dashbord-skyblue .detail-section{
+	background-color:#803D9B;
+}
